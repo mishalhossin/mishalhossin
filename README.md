@@ -2,7 +2,7 @@
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning java scripts
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mishalhossin20@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 mishalhossin/mishalhossin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
