@@ -6,6 +6,11 @@
 #### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MISHALHOSSIN&count_private=true&theme=blue-green)
 
+### Discord Status
+<a href="https://discord.com/users/900695184306765894">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/900695184306765894.png" />
+</a>
+
 <!---
 mishalhossin/mishalhossin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
