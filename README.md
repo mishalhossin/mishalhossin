@@ -2,7 +2,9 @@
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning java scripts
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyadev&count_private=true&theme=blue-green)
 
 <!---
 mishalhossin/mishalhossin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
