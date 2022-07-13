@@ -7,8 +7,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MISHALHOSSIN&count_private=true&theme=blue-green)
 
 ### Discord Status
-<a href="https://discord.com/users/900695184306765894">
-<img height="80px" src="https://discord.c99.nl/widget/theme-3/900695184306765894.png" />
+<a href="https://discord.com/users/922333568401813524">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/922333568401813524.png" />
 </a>
 
 <!---
