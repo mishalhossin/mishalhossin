@@ -5,7 +5,7 @@ About Me
 from GitHub import ReadMe
 
 class Mishal(ReadMe):
-    "/mishalhossin/mishalhossin/README.md"
+    "mishalhossin/mishalhossin/README.md"
 
     def __init__(self):
         self.username = "mishalhossin"
