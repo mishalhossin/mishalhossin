@@ -9,6 +9,8 @@ class Mishal(ReadMe):
 
     def __init__(self):
         self.username = "mishalhossin"
+        self.age = 15
+        self.birthday = "5/2/2008"
         self.contacts = {
             "Email": "mishalhossin@gmail.com",
             "Discord": "Mishal#1916"
@@ -24,23 +26,6 @@ class Mishal(ReadMe):
             "JavaScript",
             "HTML",
             "CSS"
-        ]
-        self.projects = [
-            {
-                "name": "Snake Game",
-                "description": "A classic snake game built using HTML, CSS, JS",
-                "link": "null"
-            },
-            {
-                "name": "Portfolio Website",
-                "description": "A website to showcase my coding projects",
-                "link": "https://mishal.is-a.dev"
-            },
-            {
-                "name": "Tic Tac Toe",
-                "description": "A two-player Tic Tac Toe game built using JavaScript",
-                "link": "null"
-            }
         ]
         self.hobbies = [
             "Playing chess",
