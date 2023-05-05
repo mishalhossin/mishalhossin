@@ -9,7 +9,6 @@ class Mishal(ReadMe):
 
     def __init__(self):
         self.username = "mishalhossin"
-        self.age = 15
         self.birthday = "5/2/2008"
         self.contacts = {
             "Email": "mishalhossin@gmail.com",
