@@ -1,7 +1,7 @@
 
 About Me
 --------
-```python
+```py
 from GitHub import ReadMe
 
 class Mishal(ReadMe):
@@ -16,8 +16,6 @@ class Mishal(ReadMe):
         }
         self.aliases = [
             "Mishal",
-            "Mishi",
-            "MH"
         ]
         self.occupation = "Student"
         self.skills = [
