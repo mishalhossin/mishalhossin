@@ -36,5 +36,5 @@ Discord
 --------
 
 <a href="https://discord.com/users/1025245410224263258"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1025245410224263258?theme=dark&bg=171515&borderRadius=5px&animated=true&idleMessage=PRobly%20Dying%20Idk">
+    <img src="https://lanyard.cnrad.dev/api/1025245410224263258?theme=dark&bg=171515&borderRadius=5px&animated=true&idleMessage=15%20year%20old%20solo%20dev">
   </a>
