@@ -4,7 +4,7 @@ About Me
 ## Contact Information
 You can reach me through the following channels:
 - **⌈ E-mail ⌋ :** mishalhossin20@gmail.com
-- **⌈ Discord ⌋:** [Mishal#1916
+- **⌈ Discord ⌋:** [Mishal#1916]
 (https://discord.com/users/1025245410224263258)
 ## Skills
 - Python
