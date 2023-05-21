@@ -14,7 +14,7 @@ You can reach me through the following channels:
 
 Github stats
 --------
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishalhossin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishalhossin&show_icons=true&theme=transparent)
 
 Discord
 --------
@@ -25,4 +25,4 @@ https://discord.com/users/1025245410224263258](https://discord.com/users/1025245
   </a>
 
 
-![](https://komarev.com/ghpvc/?username=mishalhossin&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mishalhossin&style=for-the-badge)
