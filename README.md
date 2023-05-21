@@ -1,27 +1,15 @@
 
 About Me
 --------
-# Mishal's GitHub ReadMe
 ## Contact Information
 You can reach me through the following channels:
 - **Email:** mishalhossin20@gmail.com
 - **Discord:** Mishal#1916
-## Aliases
-- Mishal
-- MH
-## Occupation
-I am currently a student.
 ## Skills
 - Python
 - JavaScript
 - HTML
 - CSS
-## Hobbies
-- Playing chess
-- Watching movies
-- Playing video games
-- Sometimes coding
-
 
 Github stats
 --------
