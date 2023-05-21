@@ -1,37 +1,32 @@
 
 About Me
 --------
-```py
-from GitHub import ReadMe
+# Mishal's GitHub ReadMe
+## Contact Information
+You can reach me through the following channels:
+- **Email:** mishalhossin20@gmail.com
+- **Discord:** Mishal#1916
+## Aliases
+- Mishal
+- MH
+## Occupation
+I am currently a student.
+## Skills
+- Python
+- JavaScript
+- HTML
+- CSS
+## Hobbies
+- Playing chess
+- Watching movies
+- Playing video games
+- Sometimes coding
 
-class Mishal(ReadMe):
-    "mishalhossin/mishalhossin/README.md"
 
-    def __init__(self):
-        self.username = "mishalhossin"
-        self.birthday = "5/2/2008"
-        self.contacts = {
-            "Email": "mishalhossin@gmail.com",
-            "Discord": "Mishal#1916"
-        }
-        self.aliases = [
-            "Mishal",
-        ]
-        self.occupation = "Student"
-        self.skills = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ]
-        self.hobbies = [
-            "Playing chess",
-            "Watching movies",
-            "Playing video games"
-            "Sometimes code"
-        ]
+Github stats
+--------
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishalhossin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-```
 Discord
 --------
 
