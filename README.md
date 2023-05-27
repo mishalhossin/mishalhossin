@@ -19,8 +19,7 @@ Github stats
 Discord
 --------
 
-<a href="[Mishal#1916
-https://discord.com/users/1025245410224263258](https://discord.com/users/1025245410224263258)"  align="left">
+<a href="https://discord.com/users/1025245410224263258"  align="left">
     <img src="https://lanyard.cnrad.dev/api/1025245410224263258?theme=dark&bg=151c26&borderRadius=5px&animated=true&idleMessage=15%20year%20old%20solo%20dev">
   </a>
 
