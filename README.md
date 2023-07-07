@@ -9,17 +9,3 @@ Hey, I'm Mishal, a coding nerd and total Discord addict. I'm basically the human
 
 
 
-```zsh
-[mishal@Manjaro ~]$ neofetch
-
---------------
-OS: Manjaro Linux x86_64 
-Kernel: 6.1.25-1-MANJARO 
-Shell: bash 5.1.16 
-Resolution: 1366x768 
-CPU: Intel i3-2100 (4) @ 3.100GHz 
-GPU: Intel 2nd Generation Core Processor Family 
-Memory: 3973MiB / 9844MiB 
-
-[mishal@Manjaro ~]$ I know right I have such a shity pc █
-```
