@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/mishalhossin"><img src="https://api.daily.dev/devcards/3d5237f64e9041868cd1a79b2660d301.png?r=2vx" width="400" alt="Mishal Hossin's Dev Card"/></a>
 
 <p align="center">
     <a href="https://discord.com/users/1025245410224263258">
