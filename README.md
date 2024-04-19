@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/mishalhossin/">
-        <img src="https://skillicons.dev/icons?i=css,html,js,discord,docker,express,flask,linux,md,nodejs,py,vscode" />
+        <img src="https://skillicons.dev/icons?i=css,html,js,discord,docker,express,flask,fastapi,linux,md,nodejs,py,pytorch,cloudflare,workers,vscode,ai,ps&perline=6" />
   </a>
 </p>
 
